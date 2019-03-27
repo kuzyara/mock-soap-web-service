@@ -1,0 +1,1 @@
+StandardConsoleApp.exe start /F calculator.xml /T:60 /S .\b0f8202b-316a-4458-8207-0f7e371a793d
