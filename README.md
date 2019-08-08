@@ -12,7 +12,7 @@ Filepath             Full filepath.
 Filepath             Full filepath.
 /T:timeout           Timeout in seconds if need to shut down server by timeout.
 ```
-
+Пример использования:
 ```gherkin
 Функционал: Синхронизация ограничений по минимальной цене для брендов с системой фронт 
             Как разработчик  
