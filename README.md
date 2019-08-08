@@ -1,5 +1,5 @@
 # Mock-service-in-1C
-[![telegram](https://patrolavia.github.io/telegram-badge/chat.png)](http://t.me/kuzyara777)
+[![telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://teleg.run/kuzyara777)
 
 Утилита подняния мок-сервиса из файла soap.ui
 
